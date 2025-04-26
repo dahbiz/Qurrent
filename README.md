@@ -16,8 +16,8 @@ In the UAE, battery solutions are limited by:
 Our project shows you don't need massive storage to handle renewable variability.
 Instead, you can re-optimize the energy mix in real-time, minute by minute, hour by hour.
 
-➡️ Quantum optimization chooses the right renewable sources at each step, based on availability, cost, and demand.
-➡️ Fuel sources are only used as backup, when absolutely necessary.
+- ➡️ Quantum optimization chooses the right renewable sources at each step, based on availability, cost, and demand.
+- ➡️ Fuel sources are only used as backup, when absolutely necessary.
 
 This is a radically lighter and smarter way to manage grids compared to brute-force battery storage.
 
@@ -31,12 +31,12 @@ This is a radically lighter and smarter way to manage grids compared to brute-fo
 
 ### 🚀 Big Picture Impact
 
-    Prototype for Battery-Free Smart Grids — fully dynamic, real-time managed with quantum computing.
+    - Prototype for Battery-Free Smart Grids — fully dynamic, real-time managed with quantum computing.
 
-    Environmental Win — maximize renewable use without building massive new infrastructure.
+    - Environmental Win — maximize renewable use without building massive new infrastructure.
 
-    Economic Win — save billions on energy storage, lower electricity costs.
+    - Economic Win — save billions on energy storage, lower electricity costs.
 
-## 💡 In One Sentence
+### 💡 In One Sentence
 
     "We are building a quantum optimization engine that lets renewable grids run clean, reliable, and affordable — without batteries."
