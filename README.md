@@ -37,6 +37,6 @@ This is a radically lighter and smarter way to manage grids compared to brute-fo
 
     - Economic Win — save billions on energy storage, lower electricity costs.
 
-### 💡 In One Sentence
+💡 In One Sentence
 
     "We are building a quantum optimization engine that lets renewable grids run clean, reliable, and affordable — without batteries."
